@@ -1,6 +1,6 @@
 body {
 background: linear-gradient(#333333, #111111);
-background-size: 100% auto;
+background-size: contain;
 color: white;
 }
 
