@@ -11,7 +11,7 @@ paddind: 0;
 word-wrap: break-word;
 }
 
-@media screen and (min-width: 479px) {
+@media screen and (min-width: 280px;) {
 
 header {
 margin-top: 5px;
@@ -86,7 +86,7 @@ text-decoration: none;
 
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 480px) {
 
 header {
 margin-top: 5px;
