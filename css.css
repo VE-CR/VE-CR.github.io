@@ -14,7 +14,6 @@ margin: 0;
 paddind: 0;
 word-wrap: break-word;
 font-size: 16px;
-font-family: DroidobeshDepot;
 }
 
 header {
@@ -41,6 +40,10 @@ width: 500px;
 .navig {
 float: left;
 width: 175px;
+}
+
+.shoft {
+font-family: DroidobeshDepot;
 }
 
 button {
