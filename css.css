@@ -25,7 +25,8 @@ margin-bottom: 5px;
 }
 
 .navig {
-background: linear-gradient(#ff0000, #dddddd);
+background: red;
+max-width: 150px;
 }
 
 .home {
