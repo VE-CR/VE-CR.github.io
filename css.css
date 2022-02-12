@@ -1,5 +1,5 @@
 body {
-background: linear-gradient(#ffffff, #dddddd);
+background: #abcdef;
 background-size: contain;
 color: black;
 }
@@ -26,9 +26,7 @@ margin-bottom: 5px;
 }
 
 .navig {
-background: #ff0000;
-min-width: 40px;
-max-width: 150px;
+  /* hello */
 }
 
 button {
