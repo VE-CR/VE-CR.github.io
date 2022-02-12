@@ -1,5 +1,5 @@
 body {
-background: linear-gradient(#333333, #111111);
+background: linear-gradient(#ffffff, #dddddd);
 background-size: contain;
 color: white;
 }
@@ -10,97 +10,12 @@ paddind: 0;
 word-wrap: break-word;
 }
 
-@media screen and (min-width: 280px;) {
-
-header {
-margin-top: 5px;
-border-top-left-radius: 15px;
-border-top-right-radius: 15px;
-background: linear-gradient(#555555, #444444);
-width: 99%;
-}
-
-.a1 {
-align: center;
-width: 99%;
-background: linear-gradient(#555555, #444444);
-}
-
-.a2 {
-align: center;
-width: 99%;
-background: linear-gradient(#555555, #444444);
-border-bottom-left-radius: 15px;
-border-bottom-right-radius: 15px;
-margin-bottom: 7px;
-}
-
-.a3 {
-align: center;
-width: 955px;
-background: linear-gradient(#555555, #444444);
-border-bottom-left-radius: 15px;
-border-bottom-right-radius: 15px;
-margin-bottom: 7px;
-}
-
-.navigation {
-background: linear-gradient(rgba(255, 100, 100, 255), #333333);
-}
-
-h1 {
-font-size: 36px;
-}
-h3 {
-font-size: 24px;
-}
-h4 {
-font-size: 18px;
-}
-p, i, b, s {
-font-size: 14px;
-text-align: left;
-}
-u {
-font-size: 12px;
-color: #888888;
-}
-
-a {
-color: rgba(150, 150, 255, 255);
-text-decoration: none;
-}
-a:active {
-color: rgba(255, 150, 150, 255);
-text-decoration: none;
-}
-a:visited {
-color: rgba(150, 255, 150, 255);
-text-decoration: none;
-}
-a:hover {
-color: rgba(150, 200, 150, 255);
-text-decoration: none;
-}
-
-}
-
-@media screen and (min-width: 480px) {
-
 header {
 margin-top: 5px;
 border-top-left-radius: 15px;
 border-top-right-radius: 15px;
 background: linear-gradient(#555555, #444444);
 width: 300px;
-}
-
-.head1 {
-margin-top: 5px;
-border-top-left-radius: 15px;
-border-top-right-radius: 15px;
-background: linear-gradient(#555555, #444444);
-width: 955px;
 }
 
 .a1 {
@@ -118,17 +33,8 @@ border-bottom-right-radius: 15px;
 margin-bottom: 7px;
 }
 
-.a3 {
-align: center;
-width: 955px;
-background: linear-gradient(#555555, #444444);
-border-bottom-left-radius: 15px;
-border-bottom-right-radius: 15px;
-margin-bottom: 7px;
-}
-
-.navigation {
-background: linear-gradient(rgba(255, 100, 100, 255), #333333);
+navig {
+background: linear-gradient(rgba(255, 100, 100, 255), #ffffff);
 }
 
 h1 {
@@ -141,46 +47,10 @@ h4 {
 font-size: 18px;
 }
 p, i, b, s {
-font-size: 14px;
+font-size: 16px;
 text-align: left;
 }
 u {
-font-size: 12px;
-color: #888888;
-}
-
-a {
-color: rgba(150, 150, 255, 255);
-text-decoration: none;
-}
-a:active {
-color: rgba(255, 150, 150, 255);
-text-decoration: none;
-}
-a:visited {
-color: rgba(150, 255, 150, 255);
-text-decoration: none;
-}
-a:hover {
-color: rgba(150, 200, 150, 255);
-text-decoration: none;
-}
-
-}
-
-[d="1"] {
-text-decoration: none;
-color: #888888;
-}
-[d="1"]:active {
-text-decoration: none;
-color: #888888;
-}
-[d="1"]:visited {
-text-decoration: none;
-color: #888888;
-}
-[d="1"]:hover {
-text-decoration: none;
-color: #888888;
+font-size: 14px;
+color: #сссссс;
 }
