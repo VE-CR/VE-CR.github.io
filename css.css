@@ -25,12 +25,12 @@ margin-bottom: 5px;
 }
 
 .navig {
-background: red;
+background: #ff0000;
 max-width: 150px;
 }
 
 button {
-min-width: 25px;
+background: #00ff00;
 }
 
 h1 {
