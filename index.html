@@ -22,10 +22,13 @@
             document.getElementById("cont").innerHTML = '<h1>VECR</h1><br><h3>РУС / УКР</h3><br><p>У меня в душе:<br>Не <ro>Ро</ro><ss>сс</ss><ia>ия</ia></p>';
          }
          function ua() {
-            document.getElementById("cont").innerHTML = '<h1>VECR</h1><br><h3>РУС / УКР</h3><br><p>У меня в душе:<br><hoh>Хох</hoh><land>ланд</land></p>';
+            document.getElementById("cont").innerHTML = '<h1>VECR</h1><h3>РУС / УКР</h3><p>У меня в душе:<br><hoh>Хох</hoh><land>ланд</land></p>';
          }
          function shrift() {
-            document.getElementById("cont").innerHTML = '<h1>VECR</h1><br><h3 class="shoft">SHRIFT</h3><p class="shoft">Hello! My name is Vadim and i owner of this website!<br>The end!</p>';
+            document.getElementById("cont").innerHTML = '<h1>VECR</h1><h3 class="shoft">SHRIFT</h3><p class="shoft">Hello! My name is Vadim and i owner of this website!<br>The end!</p>';
+         }
+         function news() {
+            document.getElementById("cont").innerHTML = '<h1>VECR</h1><h3>Новости</h3><p>Первая новость вас шокирует!<br>Я зарегистрировал доменное имя "VECR.ML"!</p>';
          }
       </script>
    </head>
@@ -35,12 +38,13 @@
          <button onclick="javascript:feedback();"><p>Обратная связь</p></button>
          <button onclick="javascript:ruua();"><p>РУС / УКР</p></button>
          <button onclick="javascript:shrift();"><p class="shoft">SHRIFT</p></button>
+         <button onclick="javascript:news();"><p>Новости</p></button>
       </div>
       <div class="content" id="cont">
-         <h1>VECR</h1><br>
-         <h3>О чем сайт?</h3><br>
-         <p>О всем, что мне придет в голову!</p><br>
-         <h3>Как мне связаться с тобой?</h3><br>
+         <h1>VECR</h1>
+         <h3>О чем сайт?</h3>
+         <p>О всем, что мне придет в голову!</p>
+         <h3>Как мне связаться с тобой?</h3>
          <p>Нажми <a href="#" onclick="javascript:feedback();">сюда</a>.</p>
       </div>
    </body>
