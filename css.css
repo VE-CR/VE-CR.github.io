@@ -24,8 +24,13 @@ background: #dddddd;
 margin-bottom: 5px;
 }
 
-navig {
-background: linear-gradient(rgba(255, 100, 100, 255), #ffffff);
+.navig {
+background: linear-gradient(#ff0000, #dddddd);
+}
+
+.home {
+width: 25px;
+height: 25px;
 }
 
 h1 {
