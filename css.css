@@ -21,20 +21,6 @@ word-wrap: break-word;
 font-size: 16px;
 }
 
-header {
-margin-top: 5px;
-background: linear-gradient(#ffffff, #dddddd);
-}
-
-.a1 {
-background: linear-gradient(#ffffff, #dddddd);
-}
-
-.a2 {
-background: #dddddd;
-margin-bottom: 5px;
-}
-
 .content {
 float: left;
 background: #345345;
@@ -80,22 +66,22 @@ color: #cccccc;
 }
 
 a {
-color: #dedede;
+color: #dddddd;
 text-decoration: none;
 }
 a:visited {
-color: #dedede;
+color: #dddddd;
 text-decoration: none;
 }
 a:hover {
-color: #dedede;
+color: #dddddd;
 text-decoration: none;
 }
 a:active {
-color: #dedede;
+color: #dddddd;
 text-decoration: none;
 }
 a:link {
-color: #dedede;
+color: #dddddd;
 text-decoration: none;
 }
