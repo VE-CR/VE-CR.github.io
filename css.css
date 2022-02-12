@@ -9,6 +9,11 @@ font-family: DroidobeshDepot;
 src: url(DroidobeshDepot.otf);
 }
 
+@font-face {
+font-family: zarubkaType-Regular;
+src: url(zarubkaType-Regular.ttf);
+}
+
 * {
 margin: 0;
 paddind: 0;
@@ -44,6 +49,10 @@ width: 175px;
 
 .shoft {
 font-family: DroidobeshDepot;
+}
+
+.zarubka {
+font-family: zarubkaType-Regular;
 }
 
 button {
