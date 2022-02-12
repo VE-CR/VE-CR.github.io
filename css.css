@@ -29,7 +29,7 @@ background: linear-gradient(#ff0000, #dddddd);
 }
 
 .home {
-width: 25px;
+min-width: 25px;
 height: 75px;
 }
 
