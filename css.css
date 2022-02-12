@@ -59,3 +59,24 @@ u {
 font-size: 14px;
 color: #cccccc;
 }
+
+a {
+color: #dedede;
+text-decoration: none;
+}
+a:visited {
+color: #dedede;
+text-decoration: none;
+}
+a:hover {
+color: #dedede;
+text-decoration: none;
+}
+a:active {
+color: #dedede;
+text-decoration: none;
+}
+a:link {
+color: #dedede;
+text-decoration: none;
+}
