@@ -29,9 +29,8 @@ background: red;
 max-width: 150px;
 }
 
-.home {
+button {
 min-width: 25px;
-height: 75px;
 }
 
 h1 {
