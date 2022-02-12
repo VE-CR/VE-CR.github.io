@@ -1,7 +1,7 @@
 body {
 background: linear-gradient(#ffffff, #dddddd);
 background-size: contain;
-color: white;
+color: black;
 }
 
 * {
@@ -12,25 +12,16 @@ word-wrap: break-word;
 
 header {
 margin-top: 5px;
-border-top-left-radius: 15px;
-border-top-right-radius: 15px;
-background: linear-gradient(#555555, #444444);
-width: 300px;
+background: linear-gradient(#ffffff, #dddddd);
 }
 
 .a1 {
-align: center;
-width: 300px;
-background: linear-gradient(#555555, #444444);
+background: linear-gradient(#ffffff, #dddddd);
 }
 
 .a2 {
-align: center;
-width: 300px;
-background: linear-gradient(#555555, #444444);
-border-bottom-left-radius: 15px;
-border-bottom-right-radius: 15px;
-margin-bottom: 7px;
+background: #dddddd;
+margin-bottom: 5px;
 }
 
 navig {
@@ -38,13 +29,13 @@ background: linear-gradient(rgba(255, 100, 100, 255), #ffffff);
 }
 
 h1 {
-font-size: 36px;
+font-size: 38px;
 }
 h3 {
-font-size: 24px;
+font-size: 26px;
 }
 h4 {
-font-size: 18px;
+font-size: 20px;
 }
 p, i, b, s {
 font-size: 16px;
@@ -52,5 +43,5 @@ text-align: left;
 }
 u {
 font-size: 14px;
-color: #сссссс;
+color: #cccccc;
 }
