@@ -8,6 +8,7 @@ color: black;
 margin: 0;
 paddind: 0;
 word-wrap: break-word;
+font-size: 16px;
 }
 
 header {
@@ -26,10 +27,13 @@ margin-bottom: 5px;
 
 .navig {
 background: #ff0000;
+min-width: 40px;
 max-width: 150px;
 }
 
 button {
+margin: 5px;
+border-radius: 5px;
 background: #00ff00;
 }
 
