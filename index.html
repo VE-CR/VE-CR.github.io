@@ -13,7 +13,6 @@
          hoh {color: #0000ff;}
          land {color: yellow;}
       </style>
-      <script src="js"></script>
       <script>
          function ruua() {
             document.getElementById("cont").innerHTML = '<h1>VECR</h1><br><h3>РУС / УКР</h3><br><p>У меня в душе:<br><a href="#" onclick="javascript:ru();"><ro>Ро</ro><ss>сс</ss><ia>ия</ia></a> или <a href="#" onclick="javascript:ua();"><hoh>Хох</hoh><land>ланд</land></a>?</p>';
@@ -36,6 +35,15 @@
          function howis() {
             document.getElementById("cont").innerHTML = '<h1>VECR</h1><h3>Как расшифровать текст в разделе "<p class="shoft">SHRIFT</p>"?</h3><p>Неужели ты настолько тупой (тупая)?<br>Просто возьми и скопируй непонятный тебе текст и поищи в GOOGLE его!</p>';
          }
+         function proj() {
+            document.getElementById("cont").innerHTML = '<h1>VECR</h1><h3>Проекты:</h3><p><a onclick="javascript:proj1();">Школьный проект 7Г 15.02.2022</a></p>';
+         }
+         function proj1() {
+            document.getElementById("cont").innerHTML = '<h1>VECR</h1><h3>Школьный проект 7Г 15.02.2022</h3><h4>Введение:</h4><p>Поисковые системы это очень удобный способ найти информацию, а для того, чтоб было легче искать надо знать поиковую грамотность. Поэтому я создаю этот проект.</p>';
+         }
+         function feedback() {
+            document.getElementById("cont").innerHTML = '<h1>VECR</h1><h3>Обратная связь</h3><p>E-Mail: <a href="mailto:d806127@gmail.com">d806127@gmail.com</a><br>Телефон: <a href="tel:89525211129">89525211129</a></p>';
+         }
       </script>
    </head>
    <body>
@@ -47,6 +55,7 @@
          <button onclick="javascript:news();"><p>Новости</p></button>
          <button onclick="javascript:manuscripts();"><p class="zarubka">Рукописи</p></button>
          <button onclick="javascript:howis();"><p>Как это?</p></button>
+         <button onclick="javascript:proj();"><p>Проекты</p></button>
       </div>
       <div class="content" id="cont">
          <h1>VECR</h1>
