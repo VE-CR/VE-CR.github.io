@@ -85,3 +85,9 @@ a:link {
 color: #aaaaff;
 text-decoration: none;
 }
+@media screen and (max-width: 700px) {
+    body {
+        background: #f00;
+        zoom:calc(100% / 700);
+    }
+}
