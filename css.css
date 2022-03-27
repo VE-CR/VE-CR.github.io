@@ -21,7 +21,7 @@ word-wrap: break-word;
 }
 .titl {
 	background: #66dd66;
-	font-size: 45px;
+	font-size: 300%;
 	width: 100%;
 	height: 53px;
 }
@@ -38,7 +38,4 @@ word-wrap: break-word;
 	float: right;
 	width: 90%;
 	min-height: 90%;
-}
-.titl .smds {
-	height: 53px;
 }
