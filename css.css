@@ -24,15 +24,15 @@ color: #aaaaff;
 text-decoration: none;
 }
 a:visited {
-color: #aaaffa;
-text-decoration: none;
-}
-a:hover {
 color: #aaffaa;
 text-decoration: none;
 }
+a:hover {
+color: #aaaffa;
+text-decoration: none;
+}
 a:active {
-color: #aaddaa;
+color: #aaadda;
 text-decoration: none;
 }
 a:link {
