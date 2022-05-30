@@ -11,15 +11,15 @@ word-wrap: break-word;
 }
 
 h1 {
-font-size: 300%;
+font-size: 16em;
 }
 
 p, s, i, u, b {
-font-size: 28px;
+font-size: 26px;
 }
 
 a {
-font-size: 28px;
+font-size: 26px;
 color: #aaaaff;
 text-decoration: none;
 }
