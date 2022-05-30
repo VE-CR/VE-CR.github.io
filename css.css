@@ -1,17 +1,7 @@
 body {
-background: #bbffbb;
+background: #000;
 background-size: contain;
-color: #000;
-}
-
-@font-face {
-font-family: DroidobeshDepot;
-src: url(DroidobeshDepot.otf);
-}
-
-@font-face {
-font-family: zarubkaType-Regular;
-src: url(zarubkaType-Regular.ttf);
+color: #fff;
 }
 
 * {
@@ -19,23 +9,43 @@ margin: 0;
 padding: 0;
 word-wrap: break-word;
 }
-.titl {
-	background: #66dd66;
-	font-size: 300%;
-	width: 100%;
-	height: 53px;
+
+h1 {
+font-size: 300%;
 }
-.navig {
-	background: #10ff10;
-	font-size: 26px;
-	float: left;
-	width: 10%;
-	min-height: 90%;
+
+p, s, i, u, b {
+font-size: 28px;
 }
-.cont {
-	background: #99ff99;
-	font-size: 26px;
-	float: right;
-	width: 90%;
-	min-height: 90%;
+
+a {
+font-size: 28px;
+color: #aaaaff;
+text-decoration: none;
+}
+a:visited {
+color: #aaaffa;
+text-decoration: none;
+}
+a:hover {
+color: #aaffaa;
+text-decoration: none;
+}
+a:active {
+color: #aaddaa;
+text-decoration: none;
+}
+a:link {
+color: #aaaaff;
+text-decoration: none;
+}
+
+hr {
+border: 1px solid #fff;
+}
+
+botton {
+background: none;
+border: 1px solid #fff;
+border-radius: 3px;
 }
