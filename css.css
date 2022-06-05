@@ -1,5 +1,5 @@
 body {
-background: #000;
+background: #aaaa00;
 background-size: contain;
 color: #fff;
 }
@@ -51,9 +51,8 @@ border: 1px solid #fff;
 border-radius: 3px;
 }
 
-.dot {
-border-left: 5px solid #ffF;
-border-bottom: 5px solid #ffF;
-margin-top: 10px;
-margin-bottom: 10px;
+.title {
+background: #aa00aa;
+border-radius: 5px;
+color: #fff;
 }
