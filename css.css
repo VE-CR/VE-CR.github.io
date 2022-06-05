@@ -1,5 +1,5 @@
 body {
-background: #f0f023;
+background: #cc9900;
 background-size: contain;
 color: #fff;
 }
@@ -56,14 +56,14 @@ border-radius: 3px;
 }
 
 .title {
-background: #c800c8;
+background: #660066;
 border-radius: 5px;
 color: #fff;
 margin-top: 5px;
 }
 
 .content {
-background: #23e623;
+background: #009933;
 border-radius: 5px;
 color: #fff;
 }
