@@ -1,5 +1,5 @@
 body {
-background: #aaaa00;
+background: #f0f023;
 background-size: contain;
 color: #fff;
 }
@@ -15,7 +15,7 @@ font-size: 6em;
 }
 
 h3 {
-font-size: 4em;
+font-size: 3em;
 }
 
 p, s, i, u, b {
@@ -56,13 +56,13 @@ border-radius: 3px;
 }
 
 .title {
-background: #aa00aa;
+background: ##c800c8;
 border-radius: 5px;
 color: #fff;
 }
 
 .content {
-background: #00aa00;
+background: #23e623;
 border-radius: 5px;
 color: #fff;
 }
