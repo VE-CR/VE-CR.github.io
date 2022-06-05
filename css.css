@@ -57,13 +57,13 @@ border-radius: 3px;
 
 .title {
 background: #660066;
-border-radius: 5px;
+border-radius: 10px;
 color: #fff;
-margin-top: 5px;
+margin-top: 10px;
 }
 
 .content {
 background: #009933;
-border-radius: 5px;
+border-radius: 10px;
 color: #fff;
 }
