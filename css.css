@@ -28,6 +28,7 @@ font-size: 26px;
 }
 
 a {
+padding: 5px;
 font-size: 26px;
 color: #aaaaff;
 text-decoration: none;
