@@ -10,6 +10,11 @@ padding: 0;
 word-wrap: break-word;
 }
 
+.material-icons.md-26 {
+font-size: 26px;
+color: #fff;
+}
+
 h1 {
 font-size: 6em;
 }
