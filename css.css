@@ -46,23 +46,23 @@ font-size: 26px;
 
 a {
 font-size: 26px;
-color: #463ca5;
+color: #aaa1ff;
 text-decoration: none;
 }
 a:visited {
-color: #463ca5;
+color: #aaa1ff;
 text-decoration: none;
 }
 a:hover {
-color: #5a5f96;
+color: #7770ff;
 text-decoration: none;
 }
 a:active {
-color: #464b96 ;
+color: #7770ff;
 text-decoration: none;
 }
 a:link {
-color: #463ca5;
+color: #aaa1ff;
 text-decoration: none;
 }
 
