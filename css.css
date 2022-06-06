@@ -13,6 +13,23 @@ word-wrap: break-word;
 .material-icons.md-26 {
 font-size: 26px;
 color: #fff;
+padding: 5px;
+}
+
+.material-icons.md-26:hover {
+font-size: 26px;
+border: 2px solid #fff;
+border-radius: 3px;
+color: #fff;
+padding: 5px;
+}
+
+.material-icons.mt-26 {
+font-size: 26px;
+border: 2px solid #fff;
+border-radius: 3px;
+color: #fff;
+padding: 5px;
 }
 
 h1 {
@@ -28,7 +45,6 @@ font-size: 26px;
 }
 
 a {
-padding: 5px;
 font-size: 26px;
 color: #aaaaff;
 text-decoration: none;
