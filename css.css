@@ -11,15 +11,13 @@ word-wrap: break-word;
 }
 
 .material-icons.md-26 {
-width: 30px;
-heidht: 30px;
+size: 40px;
 color: #fff;
 padding: 7px;
 }
 
 .material-icons.md-26:hover {
-width: 30px;
-height: 30px;
+size: 40px;
 border: 2px solid #fff;
 border-radius: 3px;
 color: #fff;
@@ -27,8 +25,7 @@ padding: 5px;
 }
 
 .material-icons.mt-26 {
-width: 30px;
-height: 30px;
+size: 40px;
 border: 2px solid #fff;
 border-radius: 3px;
 color: #fff;
