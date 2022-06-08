@@ -11,14 +11,14 @@ word-wrap: break-word;
 }
 
 .material-icons.md-26 {
-font-size: 2em;
+font-size: 2.5em;
 text-align: center;
 color: #fff;
 padding: 7px;
 }
 
 .material-icons.md-26:hover {
-font-size: 2em;
+font-size: 2.5em;
 text-align: center;
 border: 2px solid #fff;
 border-radius: 3px;
@@ -27,7 +27,7 @@ padding: 5px;
 }
 
 .material-icons.mt-26 {
-font-size: 2em;
+font-size: 2.5em;
 text-align: center;
 border: 2px solid #fff;
 border-radius: 3px;
@@ -91,4 +91,9 @@ margin-top: 10px;
 background: #049401;
 border-radius: 10px;
 color: #fff;
+}
+
+.news {
+float: right;
+padding: 5px;
 }
