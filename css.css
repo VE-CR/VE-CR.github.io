@@ -35,6 +35,33 @@ color: #fff;
 padding: 5px;
 }
 
+@media only screen and (min-width: 460px) {
+	.material-icons.md-26 {
+		font-size: 2em;
+		text-align: center;
+		color: #fff;
+		padding: 7px;
+	}
+
+	.material-icons.md-26:hover {
+		font-size: 2em;
+		text-align: center;
+		border: 2px solid #fff;
+		border-radius: 3px;
+		color: #fff;
+		padding: 5px;
+	}
+
+	.material-icons.mt-26 {
+		font-size: 2em;
+		text-align: center;
+		border: 2px solid #fff;
+		border-radius: 3px;
+		color: #fff;
+		padding: 5px;
+	}
+}
+
 h1 {
 font-size: 6em;
 }
