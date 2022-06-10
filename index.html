@@ -7,6 +7,14 @@
 		<link href="https://vecr.ml/css.css" rel="stylesheet">
 		<title>VECR</title>
 		<script src="js"></script>
+		<script>
+			function create() {
+				var name = document.getElementById("name").value;
+				var title = document.getElementById("title").value;
+				var text = document.getElementById("text").value;
+				document.getElementById("crt").innerHTML = "<iframe src=>";
+			}
+		</script>
 	</head>
 	<body>
 		<!--Хватит лазить в коде!-->
@@ -17,9 +25,12 @@
 			<h1 align="center">Лгвааня тсаринац</h1>
 		</div>
 		<div class="title">
-			<h3 align="center">Одрбо опажолавьт!</h3>
-			<div class="content">
-				<p></p>
+			<h3 align="center">Создать свой сайт</h3>
+			<div class="content" id="crt">
+				<input id="name" maxlength="20" placeholder="Введите название...">
+				<input id="title" maxlength="40" placeholder="Введите заголовок...">
+				<textarea id="text" placeholder="Введите Текст..."><textarea>
+				<a href="">
 			</div>
 		</div>
 	</body>
