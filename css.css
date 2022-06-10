@@ -1,5 +1,5 @@
 body {
-background: #9e8900;
+background: #000000;
 background-size: contain;
 color: #fff;
 }
@@ -44,11 +44,11 @@ font-size: 3em;
 }
 
 p, s, i, u, b {
-font-size: 26px;
+font-size: 1em;
 }
 
 a {
-font-size: 26px;
+font-size: 1em;
 color: #aaa1ff;
 text-decoration: none;
 }
@@ -81,14 +81,14 @@ border-radius: 3px;
 }
 
 .title {
-background: #89009e;
+background: #000440;
 border-radius: 10px;
 color: #fff;
 margin-top: 10px;
 }
 
 .content {
-background: #049401;
+background: #25264d;
 border-radius: 10px;
 color: #fff;
 }
