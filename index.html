@@ -13,7 +13,10 @@
 				var name = document.getElementById("name").value;
 				var title = document.getElementById("title").value;
 				var text = document.getElementById("text").value;
-				document.getElementById("crt").innerHTML = "<iframe src='http://d90930x1.beget.tech/PocketCodeDB/DATABASE/get/get.php?slot=1&token=85514429049000000001445642963&get_pe=" + code + "<title>" + name + "</title><h1 align=center>" + name + "</h1><div class=title><h3 align=center>" + title + "</h3><div class=content><p>" + text + "</p></div></div>'>";
+				document.getElementById("crt").innerHTML = "<a href='http://d90930x1.beget.tech/PocketCodeDB/DATABASE/get/get.php?slot=1&token=85514429049000000001445642963&get_pe=" + code + "<title>" + name + "</title><h1 align=center>" + name + "</h1><div class=title><h3 align=center>" + title + "</h3><div class=content><p>" + text + "</p></div></div>'><button>Создать сайт</button></a><button onclick='javascript: createnew();'>Создать новый</button>";
+			}
+			function createnew() {
+				document.getElementById("crt").innerHTML = "<input class='inp' id='name' maxlength='20' placeholder='Введите название...'><br><input class='inp' id='title' maxlength='40' placeholder='Введите заголовок...'><br><textarea class='tar' id='text' placeholder='Введите Текст...'></textarea><br><button onclick='javascript: create();'>Создать</button>";
 			}
 		</script>
 	</head>
