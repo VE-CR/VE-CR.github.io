@@ -16,7 +16,7 @@
 				document.getElementById("crt").innerHTML = "<a href='http://d90930x1.beget.tech/PocketCodeDB/DATABASE/get/get.php?slot=1&token=85514429049000000001445642963&get_pe=" + code + "<title>" + name + "</title><h1 align=center>" + name + "</h1><div class=title><h3 align=center>" + title + "</h3><div class=content><p>" + text + "</p></div></div>' target='_blank'><button>Создать сайт</button></a><button onclick='javascript: createnew();'>Создать новый</button>";
 			}
 			function createnew() {
-				document.getElementById("crt").innerHTML = "<div class=news><input class='inp' id='name' maxlength='20' placeholder='Введите название...'><br><input class='inp' id='title' maxlength='40' placeholder='Введите заголовок...'><br><textarea class='tar' id='text' placeholder='Введите Текст...'></textarea><br><button onclick='javascript: create();'>Создать</button></div><div class=news><input class=inp id=idofsite placeholder=Введите id вашего сайта...><br><button onclick=javascript: getlinkforsite();>Получить ссылку</button><p id=linktext>Ссылка на ваш сайт: </p></div>";
+				document.getElementById("crt").innerHTML = "<div class=news><input class='inp' id='name' maxlength='20' placeholder='Введите название...'><br><input class='inp' id='title' maxlength='40' placeholder='Введите заголовок...'><br><textarea class='tar' id='text' placeholder='Введите Текст...'></textarea><br><button onclick='javascript: create();'>Создать</button></div><div class=news><input class=inp id=idofsite placeholder='Введите id вашего сайта...'><br><button onclick='javascript: getlinkforsite();'>Получить ссылку</button><p id='linktext'>Ссылка на ваш сайт: </p></div>";
 			}
 			function getlinkforsite() {
 				var idofsite = document.getElementById("idofsite").value;
