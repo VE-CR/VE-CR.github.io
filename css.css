@@ -53,10 +53,14 @@ float: left;
 
 a {
 text-decoration: none;
-font-size: 20px;
 background: #000440;
 float: right;
 margin-bottom: 15px;
+}
+
+material-icons mt-26 {
+font-size: 5em;
+padding: 5px;
 }
 
 p, b, u, s, i {
