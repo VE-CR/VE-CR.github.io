@@ -34,10 +34,10 @@ padding-top: 10px;
 .block {
 margin-top: 15px;
 background-color: #25264d;
-border-left-top-radius: 0px;
-border-right-top-radius: 20px;
-border-right-bottom-radius: 20px;
-border-left-bottom-radius: 20px;
+border-top-left-radius: 0px;
+border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+border-bottom-left-radius: 20px;
 width: 90%;
 min-height: 500px;
 float: right;
