@@ -34,10 +34,10 @@ padding-top: 10px;
 .block {
 margin-top: 15px;
 background-color: #25264d;
-border-radius-top-left: 0px;
-border-radius-top-right: 20px;
-border-radius-bottom-right: 20px;
-border-radius-bottom-left: 20px;
+border-radius-left-top: 0px;
+border-radius-right-top: 20px;
+border-radius-right-bottom: 20px;
+border-radius-left-bottom: 20px;
 width: 90%;
 min-height: 500px;
 float: right;
@@ -56,7 +56,7 @@ text-decoration: none;
 font-size: 20px;
 background: #000440;
 float: right;
-padding-bottom: 15px;
+margin-bottom: 15px;
 }
 
 p, b, u, s, i {
