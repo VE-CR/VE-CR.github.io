@@ -49,10 +49,14 @@ float: left;
 
 a {
 text-decoration: none;
-font-family: Verdana;
 }
 
-p, a, b, u, s, i {
+material-icons mt-26 {
+font-size: 26px;
+padding: 10px;
+}
+
+p, b, u, s, i {
 font-size: 20px;
 padding-left: 10px;
 }
