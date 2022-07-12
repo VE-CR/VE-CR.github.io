@@ -44,6 +44,8 @@ float: right;
 }
 
 .links {
+border-bottom-right-radius: 20px;
+border-top-left-radius: 20px;
 background: #000440;
 margin-top: 15px;
 float: left;
