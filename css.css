@@ -54,7 +54,9 @@ width: 5%;
 
 a {
 text-decoration: none;
-padding: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+font-size: 36px;
 }
 
 material-icons mt-26 {
