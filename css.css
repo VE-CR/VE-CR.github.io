@@ -38,7 +38,7 @@ border-top-left-radius: 0px;
 border-top-right-radius: 20px;
 border-bottom-right-radius: 20px;
 border-bottom-left-radius: 20px;
-width: 94%;
+width: 95%;
 min-height: 500px;
 float: right;
 }
@@ -47,6 +47,7 @@ float: right;
 background: #000440;
 margin-top: 15px;
 float: left;
+width: 5%;
 }
 
 a {
