@@ -1,5 +1,5 @@
 * {
-margin: 3px;
+margin: 0px;
 padding: 0px;
 color: #f2f2f2;
 word-wrap: break-word;
@@ -52,7 +52,7 @@ text-decoration: none;
 }
 
 material-icons mt-26 {
-font-size: 26px;
+font-size: 3em;
 padding: 10px;
 }
 
