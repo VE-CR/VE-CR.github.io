@@ -28,12 +28,16 @@ h3 {
 font-family: cursive;
 font-size: 36px;
 padding-bottom: 10px;
+padding-top: 10px;
 }
 
 .block {
 margin-top: 15px;
 background-color: #25264d;
-border-radius: 20px;
+border-radius-top-left: 0px;
+border-radius-top-right: 20px;
+border-radius-bottom-right: 20px;
+border-radius-bottom-left: 20px;
 width: 90%;
 min-height: 500px;
 float: right;
@@ -52,7 +56,7 @@ text-decoration: none;
 font-size: 20px;
 background: #000440;
 float: right;
-padding-buttom: 15px;
+padding-bottom: 15px;
 }
 
 p, b, u, s, i {
