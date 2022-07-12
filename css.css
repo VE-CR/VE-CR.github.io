@@ -12,11 +12,10 @@ background-size: cover;
 
 .title {
 margin: 0 auto;
-/*background-color: #25264d;*/
+background-color: #25264d;
 border-radius: 20px;
 width: 100%;
-background-color: #000440;
-border-radius: 20px;
+/*background-color: #000440;*/
 box-shadow: 0 5px 4px -4px black;
 }
 
@@ -65,8 +64,6 @@ padding-left: 10px;
 }
 
 .link {
-font-family: Arial Black;
-font-size: 36px;
 text-align: center;
 }
 
