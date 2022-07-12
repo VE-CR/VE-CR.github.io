@@ -44,14 +44,12 @@ background-color: #25264d;
 border-radius: 20px;
 width: 23%;
 min-height: 350px;
-text-align: center;
 float: left;
 }
 
 a {
 text-decoration: none;
 font-family: Verdana;
-padding-left: 0px;
 }
 
 p, a, b, u, s, i {
@@ -60,18 +58,14 @@ padding-left: 10px;
 }
 
 .endblock {
-margin: 0 auto;
 margin-top: 15px;
 background-color: #25264d;
-border-radius: 5px;
-float: right;
+border-radius: 20px;
 width: 100%;
+text-align: center;
 }
 
 .end {
 font-family: monospace;
-font-weight: bold;
-font-size: 18px;
-text-align: center;
 padding: 5px;
 }
