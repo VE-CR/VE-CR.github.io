@@ -63,6 +63,7 @@ background-color: #25264d;
 border-radius: 20px;
 width: 100%;
 text-align: center;
+float: right;
 }
 
 .end {
