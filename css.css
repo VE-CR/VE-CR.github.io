@@ -33,7 +33,7 @@ font-size: 36px;
 margin-top: 15px;
 background-color: #25264d;
 border-radius: 20px;
-width: 89%;
+width: 90%;
 min-height: 500px;
 float: right;
 }
@@ -42,7 +42,7 @@ float: right;
 margin-top: 15px;
 /*background-color: #25264d;*/
 border-radius: 20px;
-width: 9%;
+width: 10%;
 float: left;
 }
 
@@ -50,6 +50,7 @@ a {
 text-decoration: none;
 font-size: 20px;
 background: #000440;
+float: right;
 }
 
 p, b, u, s, i {
