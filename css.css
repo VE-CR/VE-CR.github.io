@@ -3,6 +3,7 @@ margin: 0px;
 padding: 0px;
 color: #f2f2f2;
 word-wrap: break-word;
+font-family: Arial Black;
 }
 
 body {
@@ -20,12 +21,10 @@ box-shadow: 0 5px 4px -4px black;
 h1 {
 padding: 5px;
 text-align: center;
-font-family: Arial Black;
 font-size: 70px;
 }
 
 h3 {
-font-family: cursive;
 font-size: 36px;
 padding-bottom: 10px;
 padding-top: 10px;
