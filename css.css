@@ -1,54 +1,41 @@
 * {
-margin: 0px;
-padding: 0px;
-color: #f2f2f2;
-word-wrap: break-word;
 font-family: Arial Black;
+word-wrap: break-word;
+color: #f2f2f2;
+padding: 0px;
+margin: 5px;
 }
 
 body {
-background: #000000;
 background-size: cover;
+background: #000000;
 }
 
 .title {
+box-shadow: 0 5px 4px -4px white;
+background-color: #000440;
 border-radius: 20px;
 width: 100%;
-background: #000440;
-box-shadow: 0 5px 4px -4px black;
 }
 
 h1 {
-padding: 5px;
 text-align: center;
-font-size: 70px;
+font-size: 36dp;
+padding: 5px;
 }
 
 h3 {
-font-size: 36px;
 padding-bottom: 10px;
 padding-top: 10px;
+font-size: 24dp;
 }
 
 .block {
-margin-top: 15px;
 background-color: #25264d;
-border-top-left-radius: 0px;
-border-top-right-radius: 20px;
-border-bottom-right-radius: 20px;
-border-bottom-left-radius: 20px;
-width: 95%;
+border-radius: 20px;
 min-height: 500px;
-float: right;
-}
-
-.links {
-border-bottom-left-radius: 20px;
-border-top-left-radius: 20px;
-background: #000440;
 margin-top: 15px;
-float: left;
-width: 5%;
+width: 100%;
 }
 
 a {
@@ -56,30 +43,12 @@ text-decoration: none;
 padding-bottom: 10px;
 padding-left: 10px;
 padding-top: 10px;
-font-size: 36px;
-}
-
-material-icons mt-26 {
-font-size: 5em;
-padding: 5px;
+font-size: 16dp;
+color: #f1f1ff;
 }
 
 p, b, u, s, i {
-font-size: 20px;
 padding-left: 10px;
+font-size: 16dp;
 top: 10px;
-}
-
-.endblock {
-margin-top: 15px;
-background-color: #25264d;
-border-radius: 20px;
-width: 100%;
-text-align: center;
-float: right;
-}
-
-.end {
-font-family: monospace;
-padding: 5px;
 }
