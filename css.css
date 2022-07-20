@@ -17,6 +17,14 @@ border-radius: 20px;
 width: 100%;
 }
 
+.link-o {
+background: #25264d;
+}
+
+.link-c {
+background: #000440;
+}
+
 .block {
 background-color: #25264d;
 border-radius: 20px;
