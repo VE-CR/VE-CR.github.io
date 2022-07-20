@@ -12,7 +12,7 @@ background: #000000;
 }
 
 .title {
-box-shadow: 0 5px 5px 5px #000440;
+box-shadow: 0 5px 10px 5px #000440;
 /*background-color: #000440;*/
 border-radius: 20px;
 width: 100%;
