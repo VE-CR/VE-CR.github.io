@@ -17,11 +17,19 @@ border-radius: 20px;
 width: 100%;
 }
 
+#links {
+margin-bottom: 0px;
+}
+
 .link-o {
+border-top-right-radius: 20px;
+border-top-left-radius: 20px;  
 background: #25264d;
 }
 
 .link-c {
+border-top-right-radius: 20px;
+border-top-left-radius: 20px;
 background: #000440;
 }
 
