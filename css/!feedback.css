@@ -13,6 +13,7 @@
   border-right: 20px solid #000440;
   padding: 10px;
   transition: left 1s;
+  font-size: 1em;
 }
 .feedback img {
   float: left;
