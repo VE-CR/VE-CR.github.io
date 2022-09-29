@@ -23,7 +23,8 @@ background-color: #25264d;
 border-radius: 20px;
 min-height: 500px;
 margin: 0 auto;
-width: 100%-500px;
+padding: 0 0;
+width: 500px;
 }
 
 h1 {
