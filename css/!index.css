@@ -48,3 +48,6 @@ p, b, u, s, i {
 padding-left: 10px;
 font-size: 1em;
 }
+.iln {
+display: inline;
+}
