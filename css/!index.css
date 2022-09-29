@@ -22,8 +22,8 @@ width: 100%;
 background-color: #25264d;
 border-radius: 20px;
 min-height: 500px;
-margin-top: 0px;
-width: 100%;
+margin: 0 auto;
+width: 100%-500px;
 }
 
 h1 {
