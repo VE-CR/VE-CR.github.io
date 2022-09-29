@@ -13,18 +13,18 @@ background: #000000;
 
 .title {
 background-color: #000040;
-border-radius: 20px;
+border-radius: 30px;
 margin-top: 0px;
 width: 100%;
 }
 
 .block {
 background-color: #25264d;
-border-radius: 20px;
+border-radius: 30px;
 min-height: 500px;
 margin: 0 auto;
 padding: 0 0;
-width: 500px;
+width: 100%;
 }
 
 h1 {
@@ -48,8 +48,4 @@ color: #b1b1b1;
 p, b, u, s, i {
 padding-left: 10px;
 font-size: 1em;
-}
-
-.iln {
-display: inline;
 }
