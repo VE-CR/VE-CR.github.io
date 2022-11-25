@@ -21,7 +21,7 @@ width: 100%;
 .block {
 background-color: #25264d;
 border-radius: 30px;
-min-height: 700px;
+/*min-height: 700px;*/
 margin: 0 auto;
 padding: 0 0;
 width: 100%;
